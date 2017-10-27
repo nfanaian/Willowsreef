@@ -1,0 +1,69 @@
+/**
+ * Plugin Name:Woocommerce Email Verification
+ * Plugin URI: http://www.sandeepsoni.work/woocommerce-confirmation-email/
+ * Description: Verify user email address when user goes to registration 
+ * Author: Sandeep / Tact9
+ * Author URI: http://www.sandeepsoni.work/
+ * Version: 1.0
+ * Text Domain: woocommerce-extension
+ * Domain Path: /i18n/languages/    
+ * License: GNU General Public License v3.0
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ * Requires at least: 4.0.1
+ * Tested up to: 4.3
+ * Stable tag: 4.3
+ * WC requires at least: 2.2
+ * WC tested up to: 2.3
+ * @package   woocommerce-confirmation-email
+ * @author    Sandeep
+ * @category  Woocommerce Register 
+ * @copyright Copyright (c) 2012-2015, sandeepsoni.work
+ * @license   http://www.gnu.org/licenses/gpl-3.0.html GNU General Public License v3.0
+ */
+/* 
+    Created on : Oct 18, 2015, 9:05:16 AM
+    Author     : sandeep
+*/
+
+#login_register{
+                padding: 0px;
+                border: none;
+                margin: 0px;
+            }   
+            .confirm_box{
+                display: none;
+                margin-bottom: 6px;
+            }
+            input#confirmdCode {
+                width: 100%;
+                margin-bottom: 4px;
+            }   
+            input#confirmcode_button {
+                width: 100%;
+                padding: 5px;
+                height: 36px;
+            }
+            #resendverifycode{
+                width: 100%;
+                padding: 5px;
+                height: 36px;
+                display:none;
+            }
+
+            .row.error_box {
+                display:none;
+                color: red;
+                margin: 0px;
+                font-size: 13px;
+                border: 1px solid #B3B3B3;
+                padding: 4px;
+            }
+            .width33{
+                float:left;
+            }
+            .oknotice{
+                color: #248805;
+                border: 1px solid #248805;
+                font-size: 13px;
+                padding-left: 3px;
+            }

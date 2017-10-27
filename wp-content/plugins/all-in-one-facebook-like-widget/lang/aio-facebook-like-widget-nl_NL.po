@@ -1,0 +1,488 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: All-in-one Facebook Like Widget Plugin for Wordpress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/all-in-one-"
+"facebook-like-widget\n"
+"POT-Creation-Date: 2015-05-13 21:38:01+00:00\n"
+"PO-Revision-Date: 2015-05-14 00:00+0100\n"
+"Last-Translator: Jeroen Peters <jeroenpeters1986@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: index.php:53
+msgid "aio_facebook_like_widget"
+msgstr "aio_facebook_like_widget"
+
+#. #-#-#-#-#  plugin.pot (All-in-one Facebook Like Widget 1.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: index.php:54
+msgid "All-in-one Facebook Like Widget"
+msgstr "All-in-one Facebook Like Widget"
+
+#: index.php:182
+msgid "Most popular"
+msgstr "Meest populair"
+
+#: index.php:184
+msgid "English"
+msgstr "Engels"
+
+#: index.php:185
+msgid "French (France)"
+msgstr "Frans (Frankrijk)"
+
+#: index.php:186
+msgid "Spanish (Spain)"
+msgstr "Spaans (Spanje)"
+
+#: index.php:187
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: index.php:188
+msgid "German"
+msgstr "Duits"
+
+#: index.php:189
+msgid "Italian"
+msgstr "Italiaans"
+
+#: index.php:190
+msgid "Russian"
+msgstr "Russisch"
+
+#: index.php:191
+msgid "Simplified Chinese"
+msgstr "Versimpeld Chinees"
+
+#: index.php:192
+msgid "Portuguese (Brazil)"
+msgstr "Portugees (Brazilië)"
+
+#: index.php:193
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: index.php:194
+msgid "Turkish"
+msgstr "Turks"
+
+#: index.php:197
+msgid "More languages"
+msgstr "Meer talen"
+
+#: index.php:200
+msgid "French (Canada)"
+msgstr ""
+
+#: index.php:201
+msgid "Afrikaans"
+msgstr ""
+
+#: index.php:202
+msgid "Guaraní"
+msgstr ""
+
+#: index.php:203
+msgid "Aymara"
+msgstr ""
+
+#: index.php:204
+msgid "Azeri"
+msgstr ""
+
+#: index.php:205
+msgid "Malay"
+msgstr ""
+
+#: index.php:206
+msgid "Javanese"
+msgstr ""
+
+#: index.php:207
+msgid "Bosnian"
+msgstr ""
+
+#: index.php:208
+msgid "Catalan"
+msgstr ""
+
+#: index.php:209
+msgid "Czech"
+msgstr ""
+
+#: index.php:210
+msgid "Cherokee"
+msgstr ""
+
+#: index.php:211
+msgid "Welsh"
+msgstr ""
+
+#: index.php:212
+msgid "Danish"
+msgstr ""
+
+#: index.php:213
+msgid "Northern Sámi"
+msgstr ""
+
+#: index.php:214
+msgid "Estonian"
+msgstr ""
+
+#: index.php:215
+msgid "English (India)"
+msgstr ""
+
+#: index.php:216
+msgid "English (UK)"
+msgstr ""
+
+#: index.php:217
+msgid "Spanish"
+msgstr ""
+
+#: index.php:218
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: index.php:219
+msgid "Spanish (Colombia)"
+msgstr ""
+
+#: index.php:220
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: index.php:221
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: index.php:222
+msgid "Esperanto"
+msgstr ""
+
+#: index.php:223
+msgid "Basque"
+msgstr ""
+
+#: index.php:224
+msgid "Filipino"
+msgstr ""
+
+#: index.php:225
+msgid "Faroese"
+msgstr ""
+
+#: index.php:226
+msgid "Frisian"
+msgstr ""
+
+#: index.php:227
+msgid "Irish"
+msgstr ""
+
+#: index.php:228
+msgid "Galician"
+msgstr ""
+
+#: index.php:229
+msgid "Korean"
+msgstr ""
+
+#: index.php:230
+msgid "Croatian"
+msgstr ""
+
+#: index.php:231
+msgid "Xhosa"
+msgstr ""
+
+#: index.php:232
+msgid "Zulu"
+msgstr ""
+
+#: index.php:233
+msgid "Icelandic"
+msgstr ""
+
+#: index.php:234
+msgid "Swahili"
+msgstr ""
+
+#: index.php:235
+msgid "Klingon"
+msgstr ""
+
+#: index.php:236
+msgid "Kurdish"
+msgstr ""
+
+#: index.php:237
+msgid "Latvian"
+msgstr ""
+
+#: index.php:238
+msgid "Lithuanian"
+msgstr ""
+
+#: index.php:239
+msgid "Limburgish"
+msgstr ""
+
+#: index.php:240
+msgid "Latin"
+msgstr ""
+
+#: index.php:241
+msgid "Hungarian"
+msgstr ""
+
+#: index.php:242
+msgid "Malagasy"
+msgstr ""
+
+#: index.php:243
+msgid "Maltese"
+msgstr ""
+
+#: index.php:244
+msgid "Dutch (Flemish)"
+msgstr ""
+
+#: index.php:245
+msgid "Japanese"
+msgstr ""
+
+#: index.php:246
+msgid "Norwegian (bokmal)"
+msgstr ""
+
+#: index.php:247
+msgid "Norwegian (nynorsk)"
+msgstr ""
+
+#: index.php:248
+msgid "Uzbek"
+msgstr ""
+
+#: index.php:249
+msgid "Polish"
+msgstr ""
+
+#: index.php:250
+msgid "Portuguese (Portugal"
+msgstr ""
+
+#: index.php:251
+msgid "Quechua"
+msgstr ""
+
+#: index.php:252
+msgid "Romanian"
+msgstr ""
+
+#: index.php:253
+msgid "Romansh"
+msgstr ""
+
+#: index.php:254
+msgid "Albanian"
+msgstr ""
+
+#: index.php:255
+msgid "Slovak"
+msgstr ""
+
+#: index.php:256
+msgid "Slovenian"
+msgstr ""
+
+#: index.php:257
+msgid "Somali"
+msgstr ""
+
+#: index.php:258
+msgid "Finnish"
+msgstr ""
+
+#: index.php:259
+msgid "Swedish"
+msgstr ""
+
+#: index.php:260
+msgid "Thai"
+msgstr ""
+
+#: index.php:261
+msgid "Vietnamese"
+msgstr ""
+
+#: index.php:262
+msgid "Traditional Chinese, Taiwan"
+msgstr ""
+
+#: index.php:263
+msgid "Traditional Chinese, Hong Kong"
+msgstr ""
+
+#: index.php:264
+msgid "Greek"
+msgstr ""
+
+#: index.php:265
+msgid "Belarusian"
+msgstr ""
+
+#: index.php:266
+msgid "Bulgarian"
+msgstr ""
+
+#: index.php:267
+msgid "Kazakh"
+msgstr ""
+
+#: index.php:268
+msgid "Macedonian"
+msgstr ""
+
+#: index.php:269
+msgid "Mongolian"
+msgstr ""
+
+#: index.php:270
+msgid "Serbian"
+msgstr ""
+
+#: index.php:271
+msgid "Ukrainian"
+msgstr ""
+
+#: index.php:272
+msgid "Hebrew"
+msgstr ""
+
+#: index.php:273
+msgid "Syriac"
+msgstr ""
+
+#: index.php:274
+msgid "Nepali"
+msgstr ""
+
+#: index.php:275
+msgid "Hindi"
+msgstr ""
+
+#: index.php:276
+msgid "Bengali"
+msgstr ""
+
+#: index.php:277
+msgid "Punjabi"
+msgstr ""
+
+#: index.php:278
+msgid "Tamil"
+msgstr ""
+
+#: index.php:280
+msgid "English (Pirate)"
+msgstr ""
+
+#: index.php:281
+msgid "English (Upside Down)"
+msgstr ""
+
+#: index.php:282
+msgid "Leet Speak"
+msgstr ""
+
+#: index.php:289
+msgid "This will be displayed above the Like box"
+msgstr "Dit wordt boven de Like box getoond"
+
+#: index.php:289
+msgid "Title"
+msgstr "Titel"
+
+#: index.php:295
+msgid "This is the name of your page (the part after http://facebook.com/"
+msgstr "Dit is de naam van je pagina (alles achter http://facebook.com/"
+
+#: index.php:295
+msgid "Facebook Page Name (or Id)"
+msgstr "Facebook Pagina Naam (Of ID)"
+
+#: index.php:301
+msgid "Width"
+msgstr "Breedte"
+
+#: index.php:308
+msgid ""
+"Leave blank or set to 'auto' to let the plugin determine the best height"
+msgstr ""
+"Laat leeg of zet op 'auto' om de plugin de beste hoogte te laten bepalen"
+
+#: index.php:308
+msgid "Height"
+msgstr "Hoogte"
+
+#: index.php:314
+msgid "Language"
+msgstr "Taal"
+
+#: index.php:327
+msgid "Colorscheme"
+msgstr "Kleurenschema"
+
+#: index.php:329
+msgid "Light"
+msgstr "Licht"
+
+#: index.php:330
+msgid "Dark"
+msgstr "Donker"
+
+#: index.php:337
+msgid "Border"
+msgstr "Omlijning"
+
+#: index.php:343
+msgid "Faces"
+msgstr "Gezichten tonen"
+
+#: index.php:349
+msgid "Stream"
+msgstr "Activiteiten tonen"
+
+#: index.php:355
+msgid "Header"
+msgstr "Header tonen"
+
+#. #-#-#-#-#  plugin.pot (All-in-one Facebook Like Widget 1.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (All-in-one Facebook Like Widget 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.jeroen.in"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"All-in-one Facebook Like Widget. Add a Like button, stream or facebox (fans) "
+"to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jeroen Peters"
+msgstr "Jeroen Peters"
+
+#~ msgid "App Id"
+#~ msgstr "App id"
